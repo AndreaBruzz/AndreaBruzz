@@ -2,7 +2,7 @@
 
 I'm currently pursuing a Master's degree in *Computer Engineering - Web Information and Data Engineering* at the University of Padova (UNIPD) while working as a software developer at [MyCIA](https://healthyfood.srl/) since 2022.
 
-I specialize in **PHP** and **Python** development, though my academic background has also given me strong skills in **C/C++** and **Java**. I also have a basic knowledge of **JavaScript** and markup languages like **HTML** and **LaTeX**. I regularly use tools like **Git** and **Docker** to streamline my development workflow.
+I specialize in **PHP** and **Python** development, though my academic background has also given me strong skills in **C/C++** and **Java**. I also have a basic knowledge of **JavaScript** and markup languages like **HTML** and **LaTeX**. I regularly use tools like **Git** (GitHub, Bitbucket, Gitea) and **Docker** to streamline my development workflow.
 
 Currently, I'm focusing on **topic modeling** as part of my Master's thesis, driven by my fascination with text analysis.
 
@@ -19,12 +19,8 @@ Currently, I'm focusing on **topic modeling** as part of my Master's thesis, dri
 ## 🎯 Future Goals
 I aim to continue deepening my expertise in **topic modeling** and text analysis, while honing my skills in **web development** and **data engineering**. I'm also looking forward to contributing more to open-source projects in these areas.
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBruzz&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=${{ secrets.GH_STATS_TOKEN }})
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaBruzz&layout=compact&theme=radical)
-
 ## ⏱️ Coding Activity
-[![Wakatime](https://wakatime.com/badge/user/@afec4d55-3b6a-426c-b00b-735ca1f5cb0c.svg)](https://wakatime.com/@afec4d55-3b6a-426c-b00b-735ca1f5cb0c)
+[![wakatime](https://wakatime.com/badge/user/afec4d55-3b6a-426c-b00b-735ca1f5cb0c.svg)](https://wakatime.com/@afec4d55-3b6a-426c-b00b-735ca1f5cb0c)
 
 ## 🎵 Personal Interests
 As you may have noticed, I'm passionate about both **music** and **programming**! I enjoy finding innovative ways to merge these two worlds, whether it's through building tools to analyze song lyrics or exploring how data can provide new insights into musical trends.
