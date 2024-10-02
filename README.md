@@ -20,8 +20,8 @@ Currently, I'm focusing on **topic modeling** as part of my Master's thesis, dri
 I aim to continue deepening my expertise in **topic modeling** and text analysis, while honing my skills in **web development** and **data engineering**. I'm also looking forward to contributing more to open-source projects in these areas.
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaBruzz&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaBruzz&layout=compact&theme=radical)
 
 ## ⏱️ Coding Activity
 [![Wakatime](https://wakatime.com/badge/user/@afec4d55-3b6a-426c-b00b-735ca1f5cb0c.svg)](https://wakatime.com/@afec4d55-3b6a-426c-b00b-735ca1f5cb0c)
