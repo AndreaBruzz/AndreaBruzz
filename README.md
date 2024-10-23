@@ -1,6 +1,6 @@
 # Hi, I'm Andrea! 👋
 
-I'm currently pursuing a Master's degree in *Computer Engineering - Web Information and Data Engineering* at the University of Padova (UNIPD) while working as a software developer at [MyCIA](https://healthyfood.srl/) since 2022.
+I'm currently pursuing a Master's degree in *Computer Engineering - Web Information and Data Engineering* at the University of Padova (UNIPD) while working as a software developer at [MyCIA](https://healthyfood.srl/) since 2023.
 
 I specialize in **PHP** and **Python** development, though my academic background has also given me strong skills in **C/C++** and **Java**. I also have a basic knowledge of **JavaScript** and markup languages like **HTML** and **LaTeX**. I regularly use tools like **Git** (GitHub, Bitbucket, Gitea) and **Docker** to streamline my development workflow.
 
