@@ -12,7 +12,7 @@ Currently, I'm focusing on **topic modeling** as part of my Master's thesis, dri
 - **Tools**: Git, Docker
 
 ## 🚀 Current Projects
-- **[MyCIA](https://healthyfood.srl/)**: I work as a backend developer, focusing on building scalable solutions and improving feature implementations.
+- **[MyCIA](https://healthyfood.srl/)** and **[Dishcovery](https://dishcovery.biz/)**: I work (mainly) as a backend developer, focusing on building scalable solutions and improving feature implementations.
 - **[Song Lyrics Analysis Tool]** *(In development)*: A personal project where I am creating a tool to analyze song lyrics.
 - *Other secret projects at the intersection of music and IT* 👀
 
